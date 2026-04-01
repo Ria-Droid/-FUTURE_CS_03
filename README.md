@@ -50,9 +50,8 @@ No private or production APIs were accessed, and no exploitation or bypass techn
 
 ## How to Use This Repo
 1. Clone or download the repository  
-2. Review the `API_Security_Report.pdf` for a detailed professional assessment  
-3. Check the `screenshots/` folder for visual evidence of testing results  
-4. Review methodology and findings to understand common API security risks  
+2. Review the `API_Security_Report.pdf` for a detailed professional assessment   
+3. Review methodology and findings to understand common API security risks  
 
 ---
 
